@@ -1,0 +1,13 @@
+C:\Users\r_abb\source\repos\Hackerrank\GameOfThrones\bin\Debug\netcoreapp3.1\GameOfThrones.exe
+C:\Users\r_abb\source\repos\Hackerrank\GameOfThrones\bin\Debug\netcoreapp3.1\GameOfThrones.deps.json
+C:\Users\r_abb\source\repos\Hackerrank\GameOfThrones\bin\Debug\netcoreapp3.1\GameOfThrones.runtimeconfig.json
+C:\Users\r_abb\source\repos\Hackerrank\GameOfThrones\bin\Debug\netcoreapp3.1\GameOfThrones.runtimeconfig.dev.json
+C:\Users\r_abb\source\repos\Hackerrank\GameOfThrones\bin\Debug\netcoreapp3.1\GameOfThrones.dll
+C:\Users\r_abb\source\repos\Hackerrank\GameOfThrones\bin\Debug\netcoreapp3.1\GameOfThrones.pdb
+C:\Users\r_abb\source\repos\Hackerrank\GameOfThrones\obj\Debug\netcoreapp3.1\GameOfThrones.csprojAssemblyReference.cache
+C:\Users\r_abb\source\repos\Hackerrank\GameOfThrones\obj\Debug\netcoreapp3.1\GameOfThrones.AssemblyInfoInputs.cache
+C:\Users\r_abb\source\repos\Hackerrank\GameOfThrones\obj\Debug\netcoreapp3.1\GameOfThrones.AssemblyInfo.cs
+C:\Users\r_abb\source\repos\Hackerrank\GameOfThrones\obj\Debug\netcoreapp3.1\GameOfThrones.csproj.CoreCompileInputs.cache
+C:\Users\r_abb\source\repos\Hackerrank\GameOfThrones\obj\Debug\netcoreapp3.1\GameOfThrones.dll
+C:\Users\r_abb\source\repos\Hackerrank\GameOfThrones\obj\Debug\netcoreapp3.1\GameOfThrones.pdb
+C:\Users\r_abb\source\repos\Hackerrank\GameOfThrones\obj\Debug\netcoreapp3.1\GameOfThrones.genruntimeconfig.cache
