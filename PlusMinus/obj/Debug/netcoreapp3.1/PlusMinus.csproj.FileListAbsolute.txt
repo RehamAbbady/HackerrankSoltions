@@ -1,0 +1,12 @@
+C:\Users\r_abb\source\repos\Hackerrank\PlusMinus\bin\Debug\netcoreapp3.1\PlusMinus.exe
+C:\Users\r_abb\source\repos\Hackerrank\PlusMinus\bin\Debug\netcoreapp3.1\PlusMinus.deps.json
+C:\Users\r_abb\source\repos\Hackerrank\PlusMinus\bin\Debug\netcoreapp3.1\PlusMinus.runtimeconfig.json
+C:\Users\r_abb\source\repos\Hackerrank\PlusMinus\bin\Debug\netcoreapp3.1\PlusMinus.runtimeconfig.dev.json
+C:\Users\r_abb\source\repos\Hackerrank\PlusMinus\bin\Debug\netcoreapp3.1\PlusMinus.dll
+C:\Users\r_abb\source\repos\Hackerrank\PlusMinus\bin\Debug\netcoreapp3.1\PlusMinus.pdb
+C:\Users\r_abb\source\repos\Hackerrank\PlusMinus\obj\Debug\netcoreapp3.1\PlusMinus.AssemblyInfoInputs.cache
+C:\Users\r_abb\source\repos\Hackerrank\PlusMinus\obj\Debug\netcoreapp3.1\PlusMinus.AssemblyInfo.cs
+C:\Users\r_abb\source\repos\Hackerrank\PlusMinus\obj\Debug\netcoreapp3.1\PlusMinus.csproj.CoreCompileInputs.cache
+C:\Users\r_abb\source\repos\Hackerrank\PlusMinus\obj\Debug\netcoreapp3.1\PlusMinus.dll
+C:\Users\r_abb\source\repos\Hackerrank\PlusMinus\obj\Debug\netcoreapp3.1\PlusMinus.pdb
+C:\Users\r_abb\source\repos\Hackerrank\PlusMinus\obj\Debug\netcoreapp3.1\PlusMinus.genruntimeconfig.cache

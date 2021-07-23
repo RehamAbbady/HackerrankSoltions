@@ -1,0 +1,13 @@
+C:\Users\r_abb\source\repos\treeTraversal\obj\Debug\netcoreapp3.1\treeTraversal.csprojAssemblyReference.cache
+C:\Users\r_abb\source\repos\treeTraversal\obj\Debug\netcoreapp3.1\treeTraversal.AssemblyInfoInputs.cache
+C:\Users\r_abb\source\repos\treeTraversal\obj\Debug\netcoreapp3.1\treeTraversal.AssemblyInfo.cs
+C:\Users\r_abb\source\repos\treeTraversal\obj\Debug\netcoreapp3.1\treeTraversal.csproj.CoreCompileInputs.cache
+C:\Users\r_abb\source\repos\treeTraversal\bin\Debug\netcoreapp3.1\treeTraversal.exe
+C:\Users\r_abb\source\repos\treeTraversal\bin\Debug\netcoreapp3.1\treeTraversal.deps.json
+C:\Users\r_abb\source\repos\treeTraversal\bin\Debug\netcoreapp3.1\treeTraversal.runtimeconfig.json
+C:\Users\r_abb\source\repos\treeTraversal\bin\Debug\netcoreapp3.1\treeTraversal.runtimeconfig.dev.json
+C:\Users\r_abb\source\repos\treeTraversal\bin\Debug\netcoreapp3.1\treeTraversal.dll
+C:\Users\r_abb\source\repos\treeTraversal\bin\Debug\netcoreapp3.1\treeTraversal.pdb
+C:\Users\r_abb\source\repos\treeTraversal\obj\Debug\netcoreapp3.1\treeTraversal.dll
+C:\Users\r_abb\source\repos\treeTraversal\obj\Debug\netcoreapp3.1\treeTraversal.pdb
+C:\Users\r_abb\source\repos\treeTraversal\obj\Debug\netcoreapp3.1\treeTraversal.genruntimeconfig.cache

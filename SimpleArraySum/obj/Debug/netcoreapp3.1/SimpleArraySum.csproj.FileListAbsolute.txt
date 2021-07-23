@@ -1,0 +1,17 @@
+C:\Users\r_abb\source\repos\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.csprojAssemblyReference.cache
+C:\Users\r_abb\source\repos\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.AssemblyInfoInputs.cache
+C:\Users\r_abb\source\repos\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.AssemblyInfo.cs
+C:\Users\r_abb\source\repos\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.csproj.CoreCompileInputs.cache
+C:\Users\r_abb\source\repos\Hackerrank\SimpleArraySum\bin\Debug\netcoreapp3.1\SimpleArraySum.exe
+C:\Users\r_abb\source\repos\Hackerrank\SimpleArraySum\bin\Debug\netcoreapp3.1\SimpleArraySum.deps.json
+C:\Users\r_abb\source\repos\Hackerrank\SimpleArraySum\bin\Debug\netcoreapp3.1\SimpleArraySum.runtimeconfig.json
+C:\Users\r_abb\source\repos\Hackerrank\SimpleArraySum\bin\Debug\netcoreapp3.1\SimpleArraySum.runtimeconfig.dev.json
+C:\Users\r_abb\source\repos\Hackerrank\SimpleArraySum\bin\Debug\netcoreapp3.1\SimpleArraySum.dll
+C:\Users\r_abb\source\repos\Hackerrank\SimpleArraySum\bin\Debug\netcoreapp3.1\SimpleArraySum.pdb
+C:\Users\r_abb\source\repos\Hackerrank\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.csprojAssemblyReference.cache
+C:\Users\r_abb\source\repos\Hackerrank\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.AssemblyInfoInputs.cache
+C:\Users\r_abb\source\repos\Hackerrank\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.AssemblyInfo.cs
+C:\Users\r_abb\source\repos\Hackerrank\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.csproj.CoreCompileInputs.cache
+C:\Users\r_abb\source\repos\Hackerrank\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.dll
+C:\Users\r_abb\source\repos\Hackerrank\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.pdb
+C:\Users\r_abb\source\repos\Hackerrank\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.genruntimeconfig.cache

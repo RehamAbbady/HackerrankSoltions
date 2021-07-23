@@ -1,0 +1,12 @@
+C:\Users\r_abb\source\repos\Hackerrank\TallestCandle\bin\Debug\netcoreapp3.1\TallestCandle.exe
+C:\Users\r_abb\source\repos\Hackerrank\TallestCandle\bin\Debug\netcoreapp3.1\TallestCandle.deps.json
+C:\Users\r_abb\source\repos\Hackerrank\TallestCandle\bin\Debug\netcoreapp3.1\TallestCandle.runtimeconfig.json
+C:\Users\r_abb\source\repos\Hackerrank\TallestCandle\bin\Debug\netcoreapp3.1\TallestCandle.runtimeconfig.dev.json
+C:\Users\r_abb\source\repos\Hackerrank\TallestCandle\bin\Debug\netcoreapp3.1\TallestCandle.dll
+C:\Users\r_abb\source\repos\Hackerrank\TallestCandle\bin\Debug\netcoreapp3.1\TallestCandle.pdb
+C:\Users\r_abb\source\repos\Hackerrank\TallestCandle\obj\Debug\netcoreapp3.1\TallestCandle.AssemblyInfoInputs.cache
+C:\Users\r_abb\source\repos\Hackerrank\TallestCandle\obj\Debug\netcoreapp3.1\TallestCandle.AssemblyInfo.cs
+C:\Users\r_abb\source\repos\Hackerrank\TallestCandle\obj\Debug\netcoreapp3.1\TallestCandle.csproj.CoreCompileInputs.cache
+C:\Users\r_abb\source\repos\Hackerrank\TallestCandle\obj\Debug\netcoreapp3.1\TallestCandle.dll
+C:\Users\r_abb\source\repos\Hackerrank\TallestCandle\obj\Debug\netcoreapp3.1\TallestCandle.pdb
+C:\Users\r_abb\source\repos\Hackerrank\TallestCandle\obj\Debug\netcoreapp3.1\TallestCandle.genruntimeconfig.cache

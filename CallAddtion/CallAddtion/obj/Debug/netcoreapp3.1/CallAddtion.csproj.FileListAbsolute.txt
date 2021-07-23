@@ -1,0 +1,12 @@
+C:\Users\r_abb\source\repos\CallAddtion\CallAddtion\bin\Debug\netcoreapp3.1\CallAddtion.exe
+C:\Users\r_abb\source\repos\CallAddtion\CallAddtion\bin\Debug\netcoreapp3.1\CallAddtion.deps.json
+C:\Users\r_abb\source\repos\CallAddtion\CallAddtion\bin\Debug\netcoreapp3.1\CallAddtion.runtimeconfig.json
+C:\Users\r_abb\source\repos\CallAddtion\CallAddtion\bin\Debug\netcoreapp3.1\CallAddtion.runtimeconfig.dev.json
+C:\Users\r_abb\source\repos\CallAddtion\CallAddtion\bin\Debug\netcoreapp3.1\CallAddtion.dll
+C:\Users\r_abb\source\repos\CallAddtion\CallAddtion\bin\Debug\netcoreapp3.1\CallAddtion.pdb
+C:\Users\r_abb\source\repos\CallAddtion\CallAddtion\obj\Debug\netcoreapp3.1\CallAddtion.AssemblyInfoInputs.cache
+C:\Users\r_abb\source\repos\CallAddtion\CallAddtion\obj\Debug\netcoreapp3.1\CallAddtion.AssemblyInfo.cs
+C:\Users\r_abb\source\repos\CallAddtion\CallAddtion\obj\Debug\netcoreapp3.1\CallAddtion.csproj.CoreCompileInputs.cache
+C:\Users\r_abb\source\repos\CallAddtion\CallAddtion\obj\Debug\netcoreapp3.1\CallAddtion.dll
+C:\Users\r_abb\source\repos\CallAddtion\CallAddtion\obj\Debug\netcoreapp3.1\CallAddtion.pdb
+C:\Users\r_abb\source\repos\CallAddtion\CallAddtion\obj\Debug\netcoreapp3.1\CallAddtion.genruntimeconfig.cache
