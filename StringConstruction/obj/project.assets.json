@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\r_abb\\source\\repos\\DynamicProgramming\\Fibonacci.csproj",
-      "projectName": "Fibonacci",
-      "projectPath": "C:\\Users\\r_abb\\source\\repos\\DynamicProgramming\\Fibonacci.csproj",
+      "projectUniqueName": "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\StringConstruction\\StringConstruction.csproj",
+      "projectName": "StringConstruction",
+      "projectPath": "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\StringConstruction\\StringConstruction.csproj",
       "packagesPath": "C:\\Users\\r_abb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\r_abb\\source\\repos\\DynamicProgramming\\obj\\",
+      "outputPath": "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\StringConstruction\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\r_abb\\AppData\\Roaming\\NuGet\\NuGet.Config",

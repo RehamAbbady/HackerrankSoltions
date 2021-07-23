@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\r_abb\\source\\repos\\DynamicProgramming\\DynamicProgramming.csproj": {}
+    "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\StringConstruction\\StringConstruction.csproj": {}
   },
   "projects": {
-    "C:\\Users\\r_abb\\source\\repos\\DynamicProgramming\\DynamicProgramming.csproj": {
+    "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\StringConstruction\\StringConstruction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\r_abb\\source\\repos\\DynamicProgramming\\DynamicProgramming.csproj",
-        "projectName": "DynamicProgramming",
-        "projectPath": "C:\\Users\\r_abb\\source\\repos\\DynamicProgramming\\DynamicProgramming.csproj",
+        "projectUniqueName": "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\StringConstruction\\StringConstruction.csproj",
+        "projectName": "StringConstruction",
+        "projectPath": "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\StringConstruction\\StringConstruction.csproj",
         "packagesPath": "C:\\Users\\r_abb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\r_abb\\source\\repos\\DynamicProgramming\\obj\\",
+        "outputPath": "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\StringConstruction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\r_abb\\AppData\\Roaming\\NuGet\\NuGet.Config",
