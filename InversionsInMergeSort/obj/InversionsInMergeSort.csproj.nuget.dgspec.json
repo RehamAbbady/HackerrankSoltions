@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\treeTraversal\\treeTraversal.csproj": {}
+    "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\InversionsInMergeSort\\InversionsInMergeSort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\treeTraversal\\treeTraversal.csproj": {
+    "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\InversionsInMergeSort\\InversionsInMergeSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\treeTraversal\\treeTraversal.csproj",
-        "projectName": "treeTraversal",
-        "projectPath": "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\treeTraversal\\treeTraversal.csproj",
+        "projectUniqueName": "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\InversionsInMergeSort\\InversionsInMergeSort.csproj",
+        "projectName": "InversionsInMergeSort",
+        "projectPath": "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\InversionsInMergeSort\\InversionsInMergeSort.csproj",
         "packagesPath": "C:\\Users\\r_abb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\treeTraversal\\obj\\",
+        "outputPath": "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\InversionsInMergeSort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\r_abb\\AppData\\Roaming\\NuGet\\NuGet.Config",

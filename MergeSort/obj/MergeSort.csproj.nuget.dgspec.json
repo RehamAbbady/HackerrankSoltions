@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\r_abb\\source\\repos\\MergeSort\\MergeSort.csproj": {}
+    "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\MergeSort\\MergeSort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\r_abb\\source\\repos\\MergeSort\\MergeSort.csproj": {
+    "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\MergeSort\\MergeSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\r_abb\\source\\repos\\MergeSort\\MergeSort.csproj",
+        "projectUniqueName": "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\MergeSort\\MergeSort.csproj",
         "projectName": "MergeSort",
-        "projectPath": "C:\\Users\\r_abb\\source\\repos\\MergeSort\\MergeSort.csproj",
+        "projectPath": "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\MergeSort\\MergeSort.csproj",
         "packagesPath": "C:\\Users\\r_abb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\r_abb\\source\\repos\\MergeSort\\obj\\",
+        "outputPath": "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\MergeSort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\r_abb\\AppData\\Roaming\\NuGet\\NuGet.Config",

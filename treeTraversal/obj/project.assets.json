@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\r_abb\\source\\repos\\treeTraversal\\treeTraversal.csproj",
+      "projectUniqueName": "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\treeTraversal\\treeTraversal.csproj",
       "projectName": "treeTraversal",
-      "projectPath": "C:\\Users\\r_abb\\source\\repos\\treeTraversal\\treeTraversal.csproj",
+      "projectPath": "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\treeTraversal\\treeTraversal.csproj",
       "packagesPath": "C:\\Users\\r_abb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\r_abb\\source\\repos\\treeTraversal\\obj\\",
+      "outputPath": "C:\\Users\\r_abb\\source\\repos\\Hackerrank\\treeTraversal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\r_abb\\AppData\\Roaming\\NuGet\\NuGet.Config",

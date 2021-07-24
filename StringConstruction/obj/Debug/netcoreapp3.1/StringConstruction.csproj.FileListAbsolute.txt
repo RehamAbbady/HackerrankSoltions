@@ -1,0 +1,13 @@
+C:\Users\r_abb\source\repos\Hackerrank\StringConstruction\obj\Debug\netcoreapp3.1\StringConstruction.csprojAssemblyReference.cache
+C:\Users\r_abb\source\repos\Hackerrank\StringConstruction\obj\Debug\netcoreapp3.1\StringConstruction.AssemblyInfoInputs.cache
+C:\Users\r_abb\source\repos\Hackerrank\StringConstruction\obj\Debug\netcoreapp3.1\StringConstruction.AssemblyInfo.cs
+C:\Users\r_abb\source\repos\Hackerrank\StringConstruction\obj\Debug\netcoreapp3.1\StringConstruction.csproj.CoreCompileInputs.cache
+C:\Users\r_abb\source\repos\Hackerrank\StringConstruction\bin\Debug\netcoreapp3.1\StringConstruction.exe
+C:\Users\r_abb\source\repos\Hackerrank\StringConstruction\bin\Debug\netcoreapp3.1\StringConstruction.deps.json
+C:\Users\r_abb\source\repos\Hackerrank\StringConstruction\bin\Debug\netcoreapp3.1\StringConstruction.runtimeconfig.json
+C:\Users\r_abb\source\repos\Hackerrank\StringConstruction\bin\Debug\netcoreapp3.1\StringConstruction.runtimeconfig.dev.json
+C:\Users\r_abb\source\repos\Hackerrank\StringConstruction\bin\Debug\netcoreapp3.1\StringConstruction.dll
+C:\Users\r_abb\source\repos\Hackerrank\StringConstruction\bin\Debug\netcoreapp3.1\StringConstruction.pdb
+C:\Users\r_abb\source\repos\Hackerrank\StringConstruction\obj\Debug\netcoreapp3.1\StringConstruction.dll
+C:\Users\r_abb\source\repos\Hackerrank\StringConstruction\obj\Debug\netcoreapp3.1\StringConstruction.pdb
+C:\Users\r_abb\source\repos\Hackerrank\StringConstruction\obj\Debug\netcoreapp3.1\StringConstruction.genruntimeconfig.cache
