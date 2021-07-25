@@ -1,0 +1,13 @@
+C:\Users\r_abb\source\repos\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.exe
+C:\Users\r_abb\source\repos\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.deps.json
+C:\Users\r_abb\source\repos\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.runtimeconfig.json
+C:\Users\r_abb\source\repos\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.runtimeconfig.dev.json
+C:\Users\r_abb\source\repos\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.dll
+C:\Users\r_abb\source\repos\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.pdb
+C:\Users\r_abb\source\repos\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.AssemblyInfoInputs.cache
+C:\Users\r_abb\source\repos\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.AssemblyInfo.cs
+C:\Users\r_abb\source\repos\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.csproj.CoreCompileInputs.cache
+C:\Users\r_abb\source\repos\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.dll
+C:\Users\r_abb\source\repos\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.pdb
+C:\Users\r_abb\source\repos\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.genruntimeconfig.cache
+C:\Users\r_abb\source\repos\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.csprojAssemblyReference.cache
